@@ -1,0 +1,27 @@
+{
+  "name": "ipj-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Java script helper"
+  ],
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "moment-jalaali": "^0.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArashTaghavi/ipj-helper.git"
+  },
+  "author": "Arash Taghavi",
+  "license": "ISC",
+  "description": "Java script method helper",
+  "bugs": {
+    "url": "https://github.com/ArashTaghavi/ipj-helper/issues"
+  },
+  "homepage": "https://github.com/ArashTaghavi/ipj-helper"
+}
