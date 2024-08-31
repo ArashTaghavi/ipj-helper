@@ -8,5 +8,5 @@ npm i ipj-helper
 ```
 CDN:
 ```html
-<script src="https://unpkg.com/ArashTaghavi/ipj-helper/index.js](https://unpkg.com/ipj-helper@1.0.0/index.js"></script>
+<script src="https://unpkg.com/ipj-helper@1.0.0/index.js"></script>
 ```
