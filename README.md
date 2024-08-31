@@ -15,5 +15,5 @@ Example:
 import { base64ToBlob } from 'ipj-helper'
 
 const base64String='...'
-<button oncick={()=> base64ToBlob(base64String) }> Open </button>
+<button onclick={()=> base64ToBlob(base64String) }> Open </button>
 ```
